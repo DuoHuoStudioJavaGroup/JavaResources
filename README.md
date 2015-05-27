@@ -19,6 +19,11 @@
 * [版本控制之最佳实践（Git版）](http://blog.csdn.net/happydeer/article/details/17679369)
 * [Git 分支的最佳实践](http://jiongks.name/blog/a-successful-git-branching-model/?utm_source=tuicool)
 * [github简历制作网站](http://resume.github.io/)
+* [git commit实战练习](http://sundeepgupta.ca/writing-great-git-commit-messages/)
+
+###Maven
+* [Maven入门指南1](http://ifeve.com/maven-1/)
+* [Maven入门指南二](http://ifeve.com/maven-2/)
 
 ###API大全
 [在线api大全](http://resume.github.io/)
